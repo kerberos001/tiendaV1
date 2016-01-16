@@ -1,0 +1,8 @@
+[
+  {
+    "stateName": "inicio",
+    "urlPrefix": "/",
+    "type": "load",
+    "src": "app/components/inicio/inicio"
+  }
+]
